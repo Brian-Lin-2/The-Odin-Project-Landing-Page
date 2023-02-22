@@ -1,7 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
 .page__header,
 .intro,
 .page__footer {
     background: #1F2937;
+    font-family: 'Roboto';
+}
+
+.page__header {
+    display: flex;
+    justify-content: space-around;
+
+    color: white;
+}
+
+.page__logo {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.page__navBar {
+    display: flex;
+    gap: 10px;
+
+    /* Changes cursor on hover. */
+    cursor: pointer;
+
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .info {
