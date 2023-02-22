@@ -30,6 +30,7 @@
 
 .intro {
     color: white;
+
     display: flex;
     align-items: center;
 }
@@ -37,6 +38,16 @@
 .intro__header {
     color: #F9FAF8;
     font-size: 48px;
+}
+
+.intro__text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.intro__image {
+    background: gray;
+    padding: 50px 100px;
 }
 
 .info {
@@ -47,8 +58,18 @@
     background: #E5E7EB;
 }
 
-.signUp,
-.button--style {
+.button {
+    background: #3882F6;
+    color: white;
+
+    border: none;
+    text-align: center;
+
+    border-radius: 5px;
+    padding: 5px 20px;
+}
+
+.signUp {
     background: #3882F6;
     color: white;
 }
