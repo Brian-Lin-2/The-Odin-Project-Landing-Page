@@ -1,0 +1,19 @@
+.page__header,
+.intro,
+.page__footer {
+    background: #1F2937;
+}
+
+.info {
+    background: white;
+}
+
+.quote {
+    background: #E5E7EB;
+}
+
+.signUp,
+.button--style {
+    background: #3882F6;
+    color: white;
+}
