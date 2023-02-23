@@ -81,6 +81,19 @@ body {
     background: #E5E7EB;
 }
 
+.quote__text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+}
+
+.quote__author {
+    font-size: 24px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
 .button {
     background: #3882F6;
     color: white;
