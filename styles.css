@@ -1,3 +1,10 @@
+* {
+    /* Good practice */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     background: #1F2937;
     font-family: 'Roboto';
@@ -5,7 +12,7 @@ body {
 
 .page__header {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 
     color: white;
 }
@@ -17,7 +24,7 @@ body {
 
 .page__navBar {
     display: flex;
-    gap: 10px;
+    gap: 20px;
 
     /* Changes cursor on hover. */
     cursor: pointer;
@@ -31,6 +38,13 @@ body {
 
     display: flex;
     align-items: center;
+    gap: 25px;
+}
+
+.intro__info {
+    /* Sets the width to half the container. */
+    width: 50%;
+    height: 200px;
 }
 
 .intro__header {
@@ -41,15 +55,34 @@ body {
 .intro__text {
     font-size: 18px;
     color: #E5E7EB;
+
+    padding-bottom: 10px;
 }
 
 .intro__image {
-    background: gray;
+    background: darkgray;
     padding: 50px 100px;
+
+    /* Sets the width to half the container. */
+    width: 50%;
+
+    height: 200px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+}
+
+.page__header,
+.intro {
+    padding: 20px 150px;
+    padding-bottom: 75px;
 }
 
 .info {
-    background: white;
+    background: #F9FAF8;
 
     display: flex;
     flex-direction: column;
