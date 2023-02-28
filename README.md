@@ -13,11 +13,11 @@ Created a carbon copy of The Odin Project's Landing Page assignment.
 
 
 ### Screenshot
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/19761406/221867477-fe6a803d-c0a1-4fda-83ce-55999dee0d9f.png">
+<img width="750" alt="image" src="https://user-images.githubusercontent.com/19761406/221867477-fe6a803d-c0a1-4fda-83ce-55999dee0d9f.png">
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/19761406/221867694-628fb74b-b1f8-4ef2-809c-3216d1b4d6cd.png">
+<img width="750" alt="image" src="https://user-images.githubusercontent.com/19761406/221867694-628fb74b-b1f8-4ef2-809c-3216d1b4d6cd.png">
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/19761406/221867835-2c34a5f4-9dd3-4ef2-ab8c-d46d5d058e40.png">
+<img width="750" alt="image" src="https://user-images.githubusercontent.com/19761406/221867835-2c34a5f4-9dd3-4ef2-ab8c-d46d5d058e40.png">
 
 
 ## My process
